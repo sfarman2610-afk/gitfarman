@@ -1,3 +1,3 @@
 <script>
-    alert("Hello, this is a JavaScript alert!");
+    alert("syed farman ahmed");
 </script>
